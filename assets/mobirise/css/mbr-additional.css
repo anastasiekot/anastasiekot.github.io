@@ -1,0 +1,73 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
+
+
+
+
+
+
+
+
+
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header4-5 H1 {
+  font-family: 'Slabo 27px', serif;
+}
+#header4-5 P {
+  font-family: 'Bitter', serif;
+}
+#header4-5 .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#content5-14 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-family: 'Slabo 27px', serif;
+}
+#content5-14 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-14 .mbr-article {
+  color: #fff;
+}
+#msg-box5-16 .mbr-header__text {
+  color: #ffffff;
+  font-family: 'Slabo 27px', serif;
+  text-align: left;
+}
+#msg-box5-16 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-16 .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-16 .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#video2-3 SMALL {
+  font-family: 'Open Sans', sans-serif;
+}
+#slider2-4 H1 {
+  font-family: 'Slabo 27px', serif;
+}
+#slider2-4 .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#slider2-4 P {
+  font-family: 'Slabo 27px', serif;
+}
+#header1-1 H1 {
+  font-family: 'Slabo 27px', serif;
+}
